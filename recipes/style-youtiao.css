@@ -1,0 +1,35 @@
+* {
+        font-family: Garamond, 'Times New Romans', sans-serif;
+}
+
+body {
+        color: rgb(184,90,28);
+        font-size: 22px;
+
+}
+
+h1,h2,h4 {
+        font-weight: bold;
+        color: rgb(153,73,20);
+        font-size: 30px;
+}
+
+img {
+     width:400px;
+    height: auto;
+}
+
+p {
+   background-color: rgb(167,232,130);
+
+}
+
+ul li {
+         background-color: rgb(250,162,244);
+         color:black;
+}
+
+ol li {
+	line-height: 1.5em;
+} 
+
